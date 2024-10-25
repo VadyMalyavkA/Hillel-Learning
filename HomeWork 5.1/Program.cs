@@ -34,7 +34,7 @@
                 Console.WriteLine($"Your result: {mult}\n");
                 break;
             case "/":
-                    Console.WriteLine($"Your result: {divide}\n");
+                Console.WriteLine($"Your result: {divide}\n");
                 break;
         }
     }
